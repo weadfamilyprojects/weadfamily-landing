@@ -1,45 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>WeadFamily AI Content Creator Blog</title>
+<title>WeadFamily Blog — AI Content Creation Guides</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/</link>
-<description>AI content creation tools, ChatGPT prompts, and faceless channel guides for creators.</description>
+<description>Free guides on AI content creation, faceless YouTube channels, ChatGPT prompts, and making money with AI.</description>
 <language>en-us</language>
+<lastBuildDate>Thu, 23 Jul 2026 13:00:00 GMT</lastBuildDate>
+
 <item>
-<title>7 AI Content Creation Tools That Will Save You 10+ Hours a Week</title>
+<title>Best AI Tools for Content Creators in 2026 (Tried &amp; Tested)</title>
+<link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/best-ai-tools-content-creators.html</link>
+<description>We tested 15+ AI content creation tools. Here are the 5 worth paying for.</description>
+<pubDate>Thu, 23 Jul 2026 13:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>How to Make Money with AI Content Creation (5 Proven Methods)</title>
+<link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/make-money-ai-content.html</link>
+<description>5 proven ways to make money with AI: faceless channels, digital products, freelancing, affiliate marketing, and agencies.</description>
+<pubDate>Thu, 23 Jul 2026 13:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>ChatGPT vs Claude: Which AI Is Better for Content Creators?</title>
+<link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/chatgpt-vs-claude.html</link>
+<description>We tested both on 10 real content tasks. Here's the winner for each type of content.</description>
+<pubDate>Thu, 23 Jul 2026 13:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>AI Content Creation Tools: The Complete 2026 Guide</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/ai-content-creation-tools.html</link>
-<description>The 7 best AI content creation tools for creators in 2026.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 CST</pubDate>
+<description>Complete toolkit for AI-powered content creation in 2026.</description>
+<pubDate>Wed, 23 Jul 2026 12:00:00 GMT</pubDate>
 </item>
+
 <item>
-<title>15 ChatGPT Prompts for Content Creators That Actually Work</title>
+<title>ChatGPT Prompts for Content Creators That Actually Work</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/chatgpt-prompts-for-creators.html</link>
-<description>15 tested ChatGPT prompts for YouTube, TikTok, Instagram, and blog content.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 CST</pubDate>
+<description>20+ tested ChatGPT prompts for YouTube, TikTok, blogs, and email.</description>
+<pubDate>Wed, 23 Jul 2026 12:00:00 GMT</pubDate>
 </item>
+
 <item>
-<title>How to Start a Faceless YouTube Channel with AI in 2026</title>
+<title>Faceless YouTube Channel Guide: Start Without Showing Your Face</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/faceless-youtube-channel-guide.html</link>
-<description>Complete guide to building a faceless YouTube channel using AI tools.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 CST</pubDate>
+<description>Step-by-step guide to starting a profitable faceless YouTube channel with AI.</description>
+<pubDate>Wed, 23 Jul 2026 12:00:00 GMT</pubDate>
 </item>
+
 <item>
-<title>How I Use AI to Create Content for 5 Platforms Without Burning Out</title>
+<title>AI Content for 5 Platforms: How to Create Without Burning Out</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/ai-content-5-platforms.html</link>
-<description>Build an AI content engine that produces content for 5 platforms in under 4 hours.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 CST</pubDate>
+<description>How to use AI to create content for 5 platforms in under 4 hours per week.</description>
+<pubDate>Wed, 23 Jul 2026 11:00:00 GMT</pubDate>
 </item>
+
 <item>
-<title>The Faceless Creator Economy: Building a Channel Without Showing Your Face</title>
+<title>The Faceless Creator Economy: Building Without Showing Your Face</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/faceless-creator-economy.html</link>
-<description>Faceless channels are the future. Learn the AI tool stack and monetization strategies.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 CST</pubDate>
+<description>Faceless channels are the most underrated passive income play in 2026.</description>
+<pubDate>Wed, 23 Jul 2026 11:00:00 GMT</pubDate>
 </item>
+
 <item>
-<title>100 ChatGPT Prompts That Actually Work for Content Creators</title>
+<title>ChatGPT Prompts That Actually Work (Not Generic Garbage)</title>
 <link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/chatgpt-prompts-that-work.html</link>
-<description>100+ tested ChatGPT prompts across 6 categories. No fluff, just prompts that work.</description>
-<pubDate>Thu, 23 Jul 2026 06:00:00 CST</pubDate>
+<description>Real, tested ChatGPT prompts that produce usable content — not wishful thinking.</description>
+<pubDate>Wed, 23 Jul 2026 11:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>AI Content Creation FAQ — Most Asked Questions Answered</title>
+<link>https://weadfamilyprojects.github.io/weadfamily-landing/blog/ai-content-creation-faq.html</link>
+<description>Answers to the most common questions about AI content creation, tools, and monetization.</description>
+<pubDate>Thu, 23 Jul 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
