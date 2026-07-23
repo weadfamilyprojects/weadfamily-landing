@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weadfamilyprojects.github.io/weadfamily-landing/sitemap.xml
